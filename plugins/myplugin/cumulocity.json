@@ -1,8 +1,11 @@
+
 {
-  "description": "Myplugin plugin",
-  "ngModules": [],
-  "js": [],
-  "imports": [],
-  "css": [],
-  "copy": []
+  "name": "Hello world plugin testing",
+  "description": "Simple hello world plugin.",
+  "ngModules": [
+    "myapp.helloworld"
+  ],
+  "js": [
+    "index.js"
+  ]
 }
