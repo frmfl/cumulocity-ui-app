@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cumulocity/cumulocity-ui-app.git"
+    "url": "git+https://github.com/frmfl/cumulocity-ui-app.git"
   },
   "keywords": [],
   "author": "Cumulocity  <lconfraria@gmail.com>",
