@@ -8,6 +8,6 @@
   "tabsHorizontal": true,
   "imports": [
     "core/c8yBranding",
-    "myapp/myplugin"
+    "myapp/ffrplugin"
   ]
 }
