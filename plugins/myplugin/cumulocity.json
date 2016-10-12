@@ -1,0 +1,8 @@
+{
+  "description": "Myplugin plugin",
+  "ngModules": [],
+  "js": [],
+  "imports": [],
+  "css": [],
+  "copy": []
+}

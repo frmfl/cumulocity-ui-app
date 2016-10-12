@@ -1,0 +1,13 @@
+{
+  "name": "Myapp",
+  "availability": "PRIVATE",
+  "contextPath": "myapp",
+  "key": "myapp-appkey",
+  "resourcesUrl": "/",
+  "type": "HOSTED",
+  "tabsHorizontal": true,
+  "imports": [
+    "core/c8yBranding",
+    "myapp/myplugin"
+  ]
+}
